@@ -48,3 +48,10 @@ It sends movement commands to solve the maze.
 3.2 Adjust kinematics if needed
 
 Modify the set_angles() function in the script if adjustments are required for accurate robot motion.
+
+
+Moving in a straight line between markers with MyCobot Pro 600 – Instructions
+
+1. Run camera.py to detect arUco markers
+
+2. Run server.py for executing the robot controlling code
