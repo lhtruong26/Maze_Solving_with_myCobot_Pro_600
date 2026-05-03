@@ -14,6 +14,7 @@ Run the extraction script:
 
 python3 Maze_extract.py
 Adjust the crop variables in the script if needed to accurately isolate the maze.
+
 2. Robot Setup (MyCobot Pro 600)
 
 2.1 Connect peripherals
